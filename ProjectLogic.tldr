@@ -66,9 +66,9 @@
     {
       "id": "pointer:pointer",
       "typeName": "pointer",
-      "x": 228.87546539473283,
-      "y": 1523.8728637695312,
-      "lastActivityTimestamp": 1700857025732,
+      "x": 1338.4981545074659,
+      "y": 1465.4200123568394,
+      "lastActivityTimestamp": 1700862781110,
       "meta": {}
     },
     {
@@ -79,8 +79,8 @@
       "typeName": "page"
     },
     {
-      "x": 764.9526596052672,
-      "y": -277.89630126953125,
+      "x": 701.7752829925341,
+      "y": -370.8496998568394,
       "z": 0.5,
       "meta": {},
       "id": "camera:page:page",
@@ -104,7 +104,7 @@
       "opacityForNextShape": 1,
       "stylesForNextShape": {
         "tldraw:geo": "rectangle",
-        "tldraw:color": "black",
+        "tldraw:color": "red",
         "tldraw:size": "m",
         "tldraw:dash": "solid"
       },
@@ -122,7 +122,7 @@
         "x": 0,
         "y": 0,
         "w": 1202.5,
-        "h": 747.5
+        "h": 769.1666259765625
       },
       "zoomBrush": null,
       "isGridMode": false,
@@ -3767,8 +3767,8 @@
         },
         "end": {
           "type": "point",
-          "x": -193.05987548828125,
-          "y": -0.65106201171875
+          "x": -241.63268881968452,
+          "y": 39.612016316319796
         },
         "arrowheadStart": "none",
         "arrowheadEnd": "arrow",
@@ -3779,8 +3779,8 @@
       "typeName": "shape"
     },
     {
-      "x": 212.93101501798174,
-      "y": 763.372290906171,
+      "x": 156.39431261291202,
+      "y": 808.8565687807052,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -3814,8 +3814,8 @@
       "typeName": "shape"
     },
     {
-      "x": -416.42640685701826,
-      "y": 976.2955296604435,
+      "x": -728.6561762172582,
+      "y": 967.3304927110499,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -3837,8 +3837,8 @@
       "typeName": "shape"
     },
     {
-      "x": -434.21742248201826,
-      "y": 966.2369149296086,
+      "x": -746.4471918422582,
+      "y": 957.271877980215,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -3866,8 +3866,8 @@
       "typeName": "shape"
     },
     {
-      "x": -748.7636260952995,
-      "y": 1096.3411019413275,
+      "x": -1029.404894478977,
+      "y": 1080.3643462419338,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -3889,8 +3889,8 @@
       "typeName": "shape"
     },
     {
-      "x": -753.5313004231666,
-      "y": 1109.5801802437982,
+      "x": -1034.172568806844,
+      "y": 1093.6034245444046,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -3918,7 +3918,6 @@
       "isLocked": false,
       "opacity": 1,
       "meta": {},
-      "id": "shape:6jPYEqFVY0mgiO03OY92t",
       "type": "arrow",
       "parentId": "page:page",
       "index": "axV",
@@ -3952,16 +3951,16 @@
         "text": "",
         "font": "draw"
       },
+      "id": "shape:6jPYEqFVY0mgiO03OY92t",
       "typeName": "shape"
     },
     {
-      "x": -571.3836288435484,
-      "y": 1033.15185546875,
+      "x": -863.9903943474243,
+      "y": 1013.6892032369401,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
       "meta": {},
-      "id": "shape:Xpjw0qxQAt5koLFHltpq3",
       "type": "text",
       "props": {
         "color": "red",
@@ -3975,16 +3974,16 @@
       },
       "parentId": "page:page",
       "index": "b0G",
+      "id": "shape:Xpjw0qxQAt5koLFHltpq3",
       "typeName": "shape"
     },
     {
-      "x": -552.2918319685484,
-      "y": 1044.5060024261475,
+      "x": -864.4760080670696,
+      "y": 1034.1217149884726,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
       "meta": {},
-      "id": "shape:TSCuUQDIiYTWnn4dDTA8H",
       "type": "text",
       "props": {
         "color": "black",
@@ -3998,16 +3997,16 @@
       },
       "parentId": "page:page",
       "index": "b0H",
+      "id": "shape:TSCuUQDIiYTWnn4dDTA8H",
       "typeName": "shape"
     },
     {
-      "x": -839.4630050642515,
-      "y": 1246.1726684570312,
+      "x": -1088.932398447929,
+      "y": 1223.9914449842001,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
       "meta": {},
-      "id": "shape:r5Nd0-n75ItFEIWaPlgqo",
       "type": "text",
       "props": {
         "color": "red",
@@ -4021,16 +4020,16 @@
       },
       "parentId": "page:page",
       "index": "b0I",
+      "id": "shape:r5Nd0-n75ItFEIWaPlgqo",
       "typeName": "shape"
     },
     {
-      "x": -475.9117050154234,
-      "y": 1260.4695644378662,
+      "x": -725.3810983991009,
+      "y": 1238.288340965035,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
       "meta": {},
-      "id": "shape:YxuC7X1ay-YGCORBqGdp0",
       "type": "text",
       "props": {
         "color": "black",
@@ -4044,6 +4043,758 @@
       },
       "parentId": "page:page",
       "index": "b0J",
+      "id": "shape:YxuC7X1ay-YGCORBqGdp0",
+      "typeName": "shape"
+    },
+    {
+      "x": -1088.016635971927,
+      "y": 1347.9187920315096,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "type": "text",
+      "props": {
+        "color": "red",
+        "size": "l",
+        "w": 930.53125,
+        "text": "                                        4) get apt install sudo :",
+        "font": "draw",
+        "align": "middle",
+        "autoSize": true,
+        "scale": 1
+      },
+      "parentId": "page:page",
+      "index": "b0K",
+      "id": "shape:GjtQZVPyIgSVQG0QhGN60",
+      "typeName": "shape"
+    },
+    {
+      "x": -848.4267922219269,
+      "y": 1368.4266255123446,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "type": "text",
+      "props": {
+        "color": "black",
+        "size": "m",
+        "w": 1036.247314453125,
+        "text": "                                                                                      this command is to install \nthe \"sudo\"package of the .",
+        "font": "draw",
+        "align": "middle",
+        "autoSize": true,
+        "scale": 1
+      },
+      "parentId": "page:page",
+      "index": "b0L",
+      "id": "shape:BjGbVE1dUsVbabllV3so4",
+      "typeName": "shape"
+    },
+    {
+      "x": -1380.0252419289582,
+      "y": 1432.3915093166659,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "type": "text",
+      "props": {
+        "color": "red",
+        "size": "l",
+        "w": 1675.1861572265625,
+        "text": "                                                                  5)usermod -aG sudo : (\"Write ur User name\") :",
+        "font": "draw",
+        "align": "middle",
+        "autoSize": true,
+        "scale": 1
+      },
+      "parentId": "page:page",
+      "index": "b0M",
+      "id": "shape:7jnvE7USGh3bMJp-_-pjT",
+      "typeName": "shape"
+    },
+    {
+      "x": -157.51247282535041,
+      "y": 1656.2286720409843,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "type": "text",
+      "props": {
+        "color": "red",
+        "size": "l",
+        "w": 8,
+        "text": "",
+        "font": "draw",
+        "align": "middle",
+        "autoSize": true,
+        "scale": 1
+      },
+      "parentId": "page:page",
+      "index": "b0N",
+      "id": "shape:37CXaLqTpOxtugY2XhA5j",
+      "typeName": "shape"
+    },
+    {
+      "x": -540.1130715188019,
+      "y": 1496.519032738907,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "type": "text",
+      "props": {
+        "color": "black",
+        "size": "m",
+        "w": 530.6353759765625,
+        "text": "This function is to add the user sudo group",
+        "font": "draw",
+        "align": "middle",
+        "autoSize": true,
+        "scale": 1
+      },
+      "parentId": "page:page",
+      "index": "b0O",
+      "id": "shape:AP555TpLgHW4CJoLTrx0x",
+      "typeName": "shape"
+    },
+    {
+      "x": -528.0201149758332,
+      "y": 1504.820058129532,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "type": "text",
+      "props": {
+        "color": "black",
+        "size": "m",
+        "w": 766.91796875,
+        "text": "                                               \n(To see and check the Groups write) --> ( getent group sudo )",
+        "font": "draw",
+        "align": "middle",
+        "autoSize": true,
+        "scale": 1
+      },
+      "parentId": "page:page",
+      "index": "b0P",
+      "id": "shape:IxjrulYtj6ZuU1Md9OUZF",
+      "typeName": "shape"
+    },
+    {
+      "x": -12.162253098787914,
+      "y": 1539.8550148144218,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "type": "geo",
+      "props": {
+        "w": 243.190185546875,
+        "h": 33.828125,
+        "geo": "rectangle",
+        "color": "red",
+        "labelColor": "black",
+        "fill": "none",
+        "dash": "solid",
+        "size": "m",
+        "font": "draw",
+        "text": "",
+        "align": "middle",
+        "verticalAlign": "middle",
+        "growY": 0,
+        "url": ""
+      },
+      "parentId": "page:page",
+      "index": "b0Q",
+      "id": "shape:pwFe0YsZCz2u0D-Aadsyd",
+      "typeName": "shape"
+    },
+    {
+      "x": -542.6209450539582,
+      "y": 1546.4866020901034,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "type": "draw",
+      "props": {
+        "segments": [
+          {
+            "type": "free",
+            "points": [
+              {
+                "x": 0,
+                "y": 0,
+                "z": 0.5
+              },
+              {
+                "x": 1.3,
+                "y": 0.59,
+                "z": 0.5
+              },
+              {
+                "x": 2.05,
+                "y": 1.35,
+                "z": 0.5
+              },
+              {
+                "x": 3.19,
+                "y": 2.1,
+                "z": 0.5
+              },
+              {
+                "x": 3.95,
+                "y": 2.48,
+                "z": 0.5
+              },
+              {
+                "x": 5.09,
+                "y": 3.62,
+                "z": 0.5
+              },
+              {
+                "x": 5.85,
+                "y": 4.38,
+                "z": 0.5
+              },
+              {
+                "x": 6.61,
+                "y": 5.14,
+                "z": 0.5
+              },
+              {
+                "x": 7.36,
+                "y": 5.51,
+                "z": 0.5
+              },
+              {
+                "x": 7.74,
+                "y": 5.89,
+                "z": 0.5
+              }
+            ]
+          }
+        ],
+        "color": "red",
+        "fill": "none",
+        "dash": "solid",
+        "size": "m",
+        "isComplete": true,
+        "isClosed": false,
+        "isPen": false
+      },
+      "parentId": "page:page",
+      "index": "b0R",
+      "id": "shape:X02MEAQv0i1eRmKrjlCd5",
+      "typeName": "shape"
+    },
+    {
+      "x": -536.3970070656769,
+      "y": 1544.1428520901034,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "type": "draw",
+      "props": {
+        "segments": [
+          {
+            "type": "free",
+            "points": [
+              {
+                "x": 0,
+                "y": 0,
+                "z": 0.5
+              },
+              {
+                "x": -0.23,
+                "y": 0.21,
+                "z": 0.5
+              },
+              {
+                "x": -0.61,
+                "y": 1.74,
+                "z": 0.5
+              },
+              {
+                "x": -1.1,
+                "y": 4.33,
+                "z": 0.5
+              },
+              {
+                "x": -1.48,
+                "y": 4.71,
+                "z": 0.5
+              },
+              {
+                "x": -1.97,
+                "y": 6.16,
+                "z": 0.5
+              },
+              {
+                "x": -1.97,
+                "y": 6.92,
+                "z": 0.5
+              },
+              {
+                "x": -2.36,
+                "y": 8.06,
+                "z": 0.5
+              },
+              {
+                "x": -2.36,
+                "y": 8.44,
+                "z": 0.5
+              },
+              {
+                "x": -2.36,
+                "y": 8.82,
+                "z": 0.5
+              },
+              {
+                "x": -2.36,
+                "y": 9.95,
+                "z": 0.5
+              },
+              {
+                "x": -2.36,
+                "y": 10.71,
+                "z": 0.5
+              },
+              {
+                "x": -2.74,
+                "y": 11.09,
+                "z": 0.5
+              },
+              {
+                "x": -2.74,
+                "y": 11.85,
+                "z": 0.5
+              },
+              {
+                "x": -2.74,
+                "y": 12.23,
+                "z": 0.5
+              }
+            ]
+          }
+        ],
+        "color": "red",
+        "fill": "none",
+        "dash": "solid",
+        "size": "m",
+        "isComplete": true,
+        "isClosed": false,
+        "isPen": false
+      },
+      "parentId": "page:page",
+      "index": "b0S",
+      "id": "shape:pee63RcZfsyjaJpSStsYa",
+      "typeName": "shape"
+    },
+    {
+      "x": -19.986471848787914,
+      "y": 1650.4213810101005,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "type": "text",
+      "props": {
+        "color": "red",
+        "size": "m",
+        "w": 8,
+        "text": "",
+        "font": "draw",
+        "align": "middle",
+        "autoSize": true,
+        "scale": 1
+      },
+      "parentId": "page:page",
+      "index": "b0T",
+      "id": "shape:SOliDShPb9G1ENgGFDHZx",
+      "typeName": "shape"
+    },
+    {
+      "x": -526.1548806008332,
+      "y": 1575.3407280666659,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "type": "text",
+      "props": {
+        "color": "red",
+        "size": "l",
+        "w": 664.2291259765625,
+        "text": "6)(your user name)   ALL=(ALL)ALL :",
+        "font": "draw",
+        "align": "middle",
+        "autoSize": true,
+        "scale": 1
+      },
+      "parentId": "page:page",
+      "index": "b0U",
+      "id": "shape:pqgwdIMX06FChcPaYb8wW",
+      "typeName": "shape"
+    },
+    {
+      "x": -482.03903587427067,
+      "y": 1582.4502251369784,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "type": "geo",
+      "props": {
+        "w": 302.37628173828125,
+        "h": 41.8880615234375,
+        "geo": "rectangle",
+        "color": "black",
+        "labelColor": "black",
+        "fill": "none",
+        "dash": "solid",
+        "size": "l",
+        "font": "draw",
+        "text": "",
+        "align": "middle",
+        "verticalAlign": "middle",
+        "growY": 0,
+        "url": ""
+      },
+      "parentId": "page:page",
+      "index": "b0V",
+      "id": "shape:lAAouE7UTO9szrUmf_JLg",
+      "typeName": "shape"
+    },
+    {
+      "x": -781.5469592343568,
+      "y": 919.8732132389171,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:2KBG0jVqsL9-hUCGMeImS",
+      "type": "geo",
+      "props": {
+        "w": 1126.6543517045423,
+        "h": 742.4764822846482,
+        "geo": "rectangle",
+        "color": "red",
+        "labelColor": "black",
+        "fill": "none",
+        "dash": "solid",
+        "size": "l",
+        "font": "draw",
+        "text": "",
+        "align": "middle",
+        "verticalAlign": "middle",
+        "growY": 0,
+        "url": ""
+      },
+      "parentId": "page:page",
+      "index": "b0W",
+      "typeName": "shape"
+    },
+    {
+      "x": 340.69924685799424,
+      "y": 1331.8745545693068,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:m2BNn02MrgzwB0PFwQk1e",
+      "type": "arrow",
+      "parentId": "page:page",
+      "index": "b0X",
+      "props": {
+        "dash": "solid",
+        "size": "l",
+        "fill": "none",
+        "color": "red",
+        "labelColor": "black",
+        "bend": -48.88666209429493,
+        "start": {
+          "type": "binding",
+          "boundShapeId": "shape:2KBG0jVqsL9-hUCGMeImS",
+          "normalizedAnchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "isExact": false
+        },
+        "end": {
+          "type": "point",
+          "x": 353.1554164832644,
+          "y": 41.35697348832264
+        },
+        "arrowheadStart": "none",
+        "arrowheadEnd": "arrow",
+        "text": "",
+        "font": "draw"
+      },
+      "typeName": "shape"
+    },
+    {
+      "x": 439.40871179928536,
+      "y": 1397.1208129975848,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:3C2wL3gOm1WYzcsITs6zI",
+      "type": "geo",
+      "props": {
+        "w": 931.2790086933555,
+        "h": 214.23284666575023,
+        "geo": "rectangle",
+        "color": "red",
+        "labelColor": "black",
+        "fill": "none",
+        "dash": "solid",
+        "size": "l",
+        "font": "draw",
+        "text": "",
+        "align": "middle",
+        "verticalAlign": "middle",
+        "growY": 0,
+        "url": ""
+      },
+      "parentId": "page:page",
+      "index": "b0Y",
+      "typeName": "shape"
+    },
+    {
+      "x": 520.1332255207301,
+      "y": 533.0585621615269,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:bDrOUL-bX9yZs6jwRdWmB",
+      "type": "text",
+      "props": {
+        "color": "red",
+        "size": "s",
+        "w": 121.02603912353516,
+        "text": "part two (2):",
+        "font": "draw",
+        "align": "middle",
+        "autoSize": true,
+        "scale": 1
+      },
+      "parentId": "page:page",
+      "index": "b0Z",
+      "typeName": "shape"
+    },
+    {
+      "x": 228.35863519001006,
+      "y": 762.0824572887889,
+      "rotation": 6.126105674500096,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:N0wGxwrZwPB2OsfsbmdeT",
+      "type": "text",
+      "props": {
+        "color": "red",
+        "size": "s",
+        "w": 123.1484375,
+        "text": "part tree (3):",
+        "font": "draw",
+        "align": "middle",
+        "autoSize": true,
+        "scale": 1.0792623347722494
+      },
+      "parentId": "page:page",
+      "index": "b0a",
+      "typeName": "shape"
+    },
+    {
+      "x": 474.5988650553315,
+      "y": 1280.9819635919112,
+      "rotation": 0.20943951023931956,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:eFQPt0MSTtaf6d_jdBKbv",
+      "type": "text",
+      "props": {
+        "color": "red",
+        "size": "s",
+        "w": 128.4609375,
+        "text": "part four (4) :",
+        "font": "draw",
+        "align": "middle",
+        "autoSize": true,
+        "scale": 1.0275978474043381
+      },
+      "parentId": "page:page",
+      "index": "b0b",
+      "typeName": "shape"
+    },
+    {
+      "x": 112.31443868715337,
+      "y": 1423.6435440798618,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:wc_EwDR4cLCWnpBWzJykN",
+      "type": "text",
+      "props": {
+        "color": "black",
+        "size": "m",
+        "w": 934.0078125,
+        "text": "                                                                               Instaling Git and Vim .",
+        "font": "draw",
+        "align": "middle",
+        "autoSize": true,
+        "scale": 1
+      },
+      "parentId": "page:page",
+      "index": "b0c",
+      "typeName": "shape"
+    },
+    {
+      "x": 742.2415627105909,
+      "y": 1417.1917408724644,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:gbcihV-DSPU6BwarTaEJk",
+      "type": "geo",
+      "props": {
+        "w": 311.2174072265625,
+        "h": 47.8646240234375,
+        "geo": "rectangle",
+        "color": "black",
+        "labelColor": "black",
+        "fill": "none",
+        "dash": "solid",
+        "size": "m",
+        "font": "draw",
+        "text": "",
+        "align": "middle",
+        "verticalAlign": "middle",
+        "growY": 0,
+        "url": ""
+      },
+      "parentId": "page:page",
+      "index": "b0d",
+      "typeName": "shape"
+    },
+    {
+      "x": 355.54043661195806,
+      "y": 1485.9352921267368,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:Z99da0lWX-r3vJKW2un_T",
+      "type": "text",
+      "props": {
+        "color": "red",
+        "size": "m",
+        "w": 322.8424377441406,
+        "text": "                  To install Git :",
+        "font": "draw",
+        "align": "middle",
+        "autoSize": true,
+        "scale": 1
+      },
+      "parentId": "page:page",
+      "index": "b0e",
+      "typeName": "shape"
+    },
+    {
+      "x": 590.7551582916456,
+      "y": 1483.6501358767368,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:B3e1cjR5l_t96Nc6fthXA",
+      "type": "text",
+      "props": {
+        "color": "black",
+        "size": "m",
+        "w": 368.5455627441406,
+        "text": "              apt-get install git -y",
+        "font": "draw",
+        "align": "middle",
+        "autoSize": true,
+        "scale": 1
+      },
+      "parentId": "page:page",
+      "index": "b0f",
+      "typeName": "shape"
+    },
+    {
+      "x": 1039.1099709137159,
+      "y": 1498.4211109896519,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:AVIGd8ixe2QMfLsD9V9CB",
+      "type": "arrow",
+      "parentId": "page:page",
+      "index": "b0YV",
+      "props": {
+        "dash": "solid",
+        "size": "m",
+        "fill": "none",
+        "color": "black",
+        "labelColor": "black",
+        "bend": 0,
+        "start": {
+          "type": "point",
+          "x": -67.99412781462775,
+          "y": 4.546472020495457
+        },
+        "end": {
+          "type": "binding",
+          "boundShapeId": "shape:3C2wL3gOm1WYzcsITs6zI",
+          "normalizedAnchor": {
+            "x": 0.6374669971041339,
+            "y": 0.4929391847819996
+          },
+          "isExact": false
+        },
+        "arrowheadStart": "none",
+        "arrowheadEnd": "arrow",
+        "text": "",
+        "font": "draw"
+      },
+      "typeName": "shape"
+    },
+    {
+      "x": 1056.7448586090284,
+      "y": 1486.4159439822056,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:k-gvN4S8xPhyQs6_ptvIN",
+      "type": "text",
+      "props": {
+        "color": "red",
+        "size": "m",
+        "w": 218.32421875,
+        "text": "Check the version",
+        "font": "draw",
+        "align": "middle",
+        "autoSize": true,
+        "scale": 1
+      },
+      "parentId": "page:page",
+      "index": "b0g",
       "typeName": "shape"
     }
   ]
