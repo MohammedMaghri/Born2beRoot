@@ -1,0 +1,70 @@
+sntall the php last V : $ sudo apt install php8.1
+$ sudo apt install php-common php-cgi php-cli php-mysql
+install lightpad $ sudo apt install lighttpd
+start it then enable it  sudo systemctl start lighttpd
+sudo systemctl enable lighttpd
+allow the .. sudo ufw allow http
+then test it http://127.0.0.1:8080/
+Tr1ple.x.x.x — Aujourd’hui à 15:45
+then we need to enable the gi
+cgi
+$ sudo lighty-enable-mod fastcgi
+$ sudo lighty-enable-mod fastcgi-php
+$ sudo service lighttpd force-reload
+create a file in /var/www/html named info.php
+<?php
+phpinfo();
+?>
+then test in the  http://127.0.0.1:8080/info.php
+Installing MariaDB
+$ sudo apt install mariadb-server
+enable it $ sudo systemctl start mariadb
+$ sudo systemctl enable mariadb
+then secure the it $ sudo mysql_secure_installation
+this are the steps Enter current password for root (enter for none): <Enter>
+Switch to unix_socket authentication [Y/n]: Y
+Set root password? [Y/n]: Y
+New password: 101Asterix!
+Re-enter new password: 101Asterix!
+Remove anonymous users? [Y/n]: Y
+Disallow root login remotely? [Y/n]: Y
+Remove test database and access to it? [Y/n]:  Y
+Reload privilege tables now? [Y/n]:  Y
+restart it $ sudo systemctl restart mariadb
+Enter the interface of the marai db :
+$ mysql -u root -p
+" MariaDB [(none)]> CREATE DATABASE wordpress_db;
+MariaDB [(none)]> CREATE USER 'admin'@'localhost' IDENTIFIED BY 'WPpassw0rd';
+MariaDB [(none)]> GRANT ALL ON wordpress_db.* TO 'admin'@'localhost' IDENTIFIED BY 'WPpassw0rd' WITH GRANT OPTION;
+MariaDB [(none)]> FLUSH PRIVILEGES;
+MariaDB [(none)]> EXIT; "
+check it .. $ mysql -u root -p
+then show the Data base MariaDB [(none)]> show databases;
+Installing WordPress
+We need to install two tools:
+
+$ sudo apt install wget
+$ sudo apt install tar
+Creat a wordpress file $ sudo mv /var/www/html/wp-config-sample.php /var/www/html/wp-config.php
+Tr1ple.x.x.x — Aujourd’hui à 15:52
+Edit like this Edit /var/www/html/wp-config.php with database info:
+
+<?php
+/* ... /
+/** The name of the database for WordPress/
+define( 'DB_NAME', 'wordpress_db' );
+
+/ Database username */
+define( 'DB_USER', 'admin' );
+
+/ Database password /
+define( 'DB_PASSWORD', 'WPpassw0rd' );
+
+/** Database host/
+define( 'DB_HOST', 'localhost' );
+Change permissions of WordPress directory to grant rights to web server and restart lighttpd:
+
+$ sudo chown -R www-data:www-data /var/www/html/
+$ sudo chmod -R 755 /var/www/html/
+$ sudo systemctl restart lighttpd
+Connct http://127.0.0.1:8080/
