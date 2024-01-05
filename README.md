@@ -1,5 +1,8 @@
 # Born2beRoot
-I will create  My first Server in VirtualBox  under specific instructions. in The bonus part , you will be able to set up your own wordpress site implementing strict rules...... Enjoy &lt;3
+I will create  My first Server in VirtualBox  under specific instructions. in The bonus part , you will be able to set up your own wordpress site implementing strict rules...... E
+njoy &lt;3
+
+<img width="2554" alt="Screen Shot 2024-01-05 at 1 28 37 PM" src="https://github.com/MohammedMaghri/Born2beRoot/assets/135870538/6acaebbc-f8f1-405e-8a3b-b0796b338470">
 
 this is the Server how it looks like > 
 <img width="2526" alt="Screen Shot 2023-12-05 at 2 30 18 PM" src="https://github.com/Mohammedmaghri/Born2beRoot/assets/135870538/715f83e6-252e-46c8-958a-6f2061bce9e0">
