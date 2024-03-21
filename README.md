@@ -8,4 +8,4 @@ this is the Server how it looks like >
 <img width="2526" alt="Screen Shot 2023-12-05 at 2 30 18 PM" src="https://github.com/Mohammedmaghri/Born2beRoot/assets/135870538/715f83e6-252e-46c8-958a-6f2061bce9e0">
 
 And this is the Plan i Create For Born2beroot ..
-<img width="9569" alt="logicborn" src="https://github.com/Mohammedmaghri/Born2beRoot/assets/135870538/e0cb6506-39b3-4eab-aa69-2c5da67d78a7">
+<img width="9569" alt="logicborn" src="https://github.com/Mohammedmaghri/Born2beRoot/assets/135870538/e0cb6506-39b3-4eab-aa69ss-2ce5d a67d78a7">
